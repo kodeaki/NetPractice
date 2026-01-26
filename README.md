@@ -47,3 +47,7 @@ NetPractice is a project that aims to introduce the basics of networking through
   -  **OSI layers**
   
         The OSI model is a framework that describes network communications protocols. Developed by the International Organization for Standardization (ISO), it's purpose is to standardize the ways in which systems communicate with each other. In the model communication systems are divided into seven abstraction layers: Application, Presentation, Session, Transport, Network, Data link, Physical. Starting from the top with Application being the interface that the end user sees and/or communicates with, all the way down to the physical layer which describes the physical properties of electrical connectors, frequencies to transmit on, etc.
+
+
+## Use of AI
+AI was used as a search assistant when studying the mentioned topics but was not used as a single source of information. Remember that AI is not always a reliable tool and can give false information. All the information listed in this README was also confirmed from trusted and reliable sources.
